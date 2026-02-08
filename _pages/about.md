@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: madrid.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Gebäude: 23.21, Room: 04.103</p>
@@ -28,6 +28,6 @@ latest_posts:
 ---
 Ph.D student in Computational Linguistics at the Heinrich-Heine-University Düsseldorf under the supervision of
 Laura Kallmeyer, Stefan Dietze and Katarina Boland.
-I am employed in the [NewOrder](https://neworder-project.github.io
-) project.
+I am currently employed in the [NewOrder](https://neworder-project.github.io
+) project, where I work on the analysis of scientific online discourse.
 My research interests are writing styles of humans and machines, generalizability and explainability.
