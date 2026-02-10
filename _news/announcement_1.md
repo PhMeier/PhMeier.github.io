@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am co-organising the First International Workshop on Science-Related Discourse
+at the [18th ACM Web Science Conference 2026.](http://websci26.org/)
+
