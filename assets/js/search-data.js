@@ -422,12 +422,10 @@ ninja.data = [{
             },},{id: "news-meet-me-at-clef-2025-in-madrid-i-took-part-in-the-shared-task-multi-author-writing-style-at-pan-2025",
           title: 'Meet me at CLEF 2025 in Madrid! I took part in the Shared...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-am-serving-as-a-reviewer-for-lrec-2026",
+          title: 'I am serving as a reviewer for LREC 2026.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-co-organising-the-first-international-workshop-on-science-related-discourse-at-the-18th-acm-web-science-conference-2026",
+          section: "News",},{id: "news-i-am-co-organising-the-first-international-workshop-on-science-related-discourse-at-the-18th-acm-web-science-conference-2026",
           title: 'I am co-organising the First International Workshop on Science-Related Discourse at the 18th...',
           description: "",
           section: "News",},{id: "projects-project-1",
