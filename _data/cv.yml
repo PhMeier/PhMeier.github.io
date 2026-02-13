@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Philipp Meier
     - name: Date of Birth
-      value: 14th March 1879
+      value: 29th April 1996
     - name: Languages
-      value: English, German
+      value: German (mother language), English (B2 in parts C1), French (B2), Russian (A1)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Heinrich-Heine-University Duesseldorf
+      year: Started 2024
       description:
         - Description 1.
         - Description 2.
