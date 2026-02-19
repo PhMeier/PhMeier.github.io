@@ -37,21 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-submenus",
+          title: "submenus",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/dropdown/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -419,7 +412,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-meet-me-at-pan-2025-in-madrid-i-will-present-our-work-an-ensemble-based-approach-to-multi-author-writing-style-analysis-combining-experts-for-different-difficulty-levels-in-the-poster-session",
+          title: 'Meet me at PAN 2025 in Madrid! I will present our work An...',
+          description: "",
+          section: "News",},{id: "news-i-am-co-organising-the-1st-international-workshop-on-science-discourse-on-the-web-which-is-colocated-with-acm-web-science-conference-2026-from-16-29-may-in-braunschweig",
+          title: 'I am co-organising the 1st International Workshop on Science Discourse on the Web,...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
