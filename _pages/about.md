@@ -9,7 +9,8 @@ profile:
   image: madrid.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gebäude: 23.21, Room: 04.103</p>
+    <p>Building: 23.21, Room: 04.103</p>
+    <p>Heinrich-Heine-University</p>
     <p>Universitätsstraße 1</p>
     <p>Düsseldorf, 40225</p>
 
