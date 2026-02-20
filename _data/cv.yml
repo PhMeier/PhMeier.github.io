@@ -26,13 +26,12 @@
       year: 2023
       description:
         - Description 1.
-        - Description 2.
     - title: B.A in Computational Linguistics
       institution: Heidelberg University
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis - Bootstrapping eines frame-basierten Lexikons für Moral Foundations
+        - Building a frame based lexicon for moral foundations implementing a bootstrapping procedure (Basilisk algorithm) in order to increase the accuracy when classifying moral in text over a word based approach.
 
 - title: Working Experience
   type: time_table
