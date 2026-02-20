@@ -12,20 +12,16 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Heinrich-Heine-University
-      year: Started 2024
+      institution: Heinrich-Heine-University, Düsseldorf
+      year: Started in 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Working on writing styles of humans and machines. Currently especially interested in Author Profiling.
     - title: M.A in Computational Linguistics
       institution: Heidelberg University
       year: 2023
       description:
-        - Description 1.
+        - Thesis - Predicting Veridicality in a Joint Textual-Symbolic Neural Inference and Generation Architecture
+        - Explored the veridicality phenomenon as a Natural Language Inference (NLI) task in a Transformer architecture for joint textual-symbolic neural inference and generation.
     - title: B.A in Computational Linguistics
       institution: Heidelberg University
       year: 2019
@@ -43,38 +39,14 @@
         Supported the implementation of pre-and postprocessing, machine learning solutions and
         technical documentation in customer projects.
 
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Writing Style
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Author Attribution, Verification and Profiling
+        - Machine Generated Text Detection
+    - title: Generalization and Explainability in Machine Learning
+    - title: Meaning Representations
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
