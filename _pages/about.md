@@ -23,12 +23,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 I am a Ph.D. student in Computational Linguistics at the Heinrich-Heine-University Düsseldorf under the supervision of
 Laura Kallmeyer, Stefan Dietze and Katarina Boland.
-I am currently employed in the [NewOrder](https://neworder-project.github.io
+Currently, I am employed in the [NewOrder](https://neworder-project.github.io
 ) project, where I work on the analysis of scientific online discourse.
 My research interests are writing styles of humans and machines, generalizability and explainability.
