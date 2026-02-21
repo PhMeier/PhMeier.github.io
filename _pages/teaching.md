@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I co-teached the following courses in the computer science departement:
 
-Organize your courses by years, topics, or universities, however you like!
+- WS 2025/2026: Knowledge Graphs in NLP
+- SS 2025: Advances in Data Science
+- WS 2024/2025: Knowledge Graphs in NLP
