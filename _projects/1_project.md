@@ -7,12 +7,6 @@ category: work
 related_publications: true
 ---
 
-Reference Checker - Read in a pdf and check the references with Open Alex. Early Version, not tested exhaustively.
+Reference Checker - Read in a pdf and check the references with Open Alex. Early Version, not tested exhaustively yet.
 Check it out on [Github](https://github.com/PhMeier/reference_checker)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
